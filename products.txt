@@ -1,0 +1,4 @@
+Apple,10.0
+banana,10.0
+eggs,3.0
+flour,8.0
